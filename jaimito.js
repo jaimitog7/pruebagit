@@ -25,3 +25,9 @@ git push -u origin main
 nuevafuncion(){
     alert('holamundo ')
 }
+
+
+//agregando nuevos cambios a ramanueva para pull
+nuevafuncion2(){
+    alert('hola')
+}
