@@ -19,3 +19,9 @@ git push -u origin main
 git remote add origin https://github.com/jaimitog7/pruebagit.git
 git branch -M main
 git push -u origin main
+
+
+//agregando nuevos cambios a rama nueva
+nuevafuncion(){
+    alert('holamundo ')
+}
